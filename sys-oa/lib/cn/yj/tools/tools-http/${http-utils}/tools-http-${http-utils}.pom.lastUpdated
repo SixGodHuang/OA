@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Nov 15 15:21:21 CST 2020
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact cn.yj.tools\:tools-http\:pom\:${http-utils} from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public)\: TransferFailedException
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1605424881783

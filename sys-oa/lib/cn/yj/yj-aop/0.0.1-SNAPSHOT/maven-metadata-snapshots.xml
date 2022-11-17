@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.yj</groupId>
+  <artifactId>yj-aop</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20201120.021829</timestamp>
+      <buildNumber>14</buildNumber>
+    </snapshot>
+    <lastUpdated>20201120021829</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20201120.021829-14</value>
+        <updated>20201120021829</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20201120.021829-14</value>
+        <updated>20201120021829</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
